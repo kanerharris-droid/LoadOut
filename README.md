@@ -1,6 +1,7 @@
 LoadOut
 
 ​A minimalist, lightweight gear manager built for backpackers who prioritize efficiency and simplicity.
+
 ​I created LoadOut because I wanted a tool that tracks my base weight without the bloat of traditional gear trackers. It is designed to be fast, local-first, and distraction-free.
 ​Features
 
